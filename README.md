@@ -7,44 +7,45 @@ This application allows users to **View Books, Add New Books, Edit Books, Delete
 
 ## 🏠 Home Page Preview
 
-![Home Page](./public/homepage.png)
+![Home Page](./Main%20Home.png)
 
 ---
 
 ## ✨ Features
 
-- 🏠 Beautiful **Home Page** with Banner/Image  
-- ➕ **Add New Book Form**  
-- ✏️ **Edit Book** Details  
-- 🗑 **Delete Book**  
-- 📚 Show All Books  
-- ⚡ Fast Node + Express Backend  
-- 🗄 MongoDB Database with Mongoose  
-- 🎨 Clean & Responsive React UI  
+- 🏠 Beautiful **Home Page** with Banner/Image
+- ➕ **Add New Book Form**
+- ✏️ **Edit Book** Details
+- 🗑 **Delete Book**
+- 📚 Show All Books
+- ⚡ Fast Node + Express Backend
+- 🗄 MongoDB Database with Mongoose
+- 🎨 Clean & Responsive React UI
 
 ---
 
 ## 🖊 Add Book Form Screenshot
 
-![Add Book Form](./public/add-book.png)
+![Add Book Form](./Add%20Book.png)
 
 ---
 
 ## 🏗️ Tech Stack
 
 ### **Frontend**
-- React.js  
-- React Router  
-- Axios  
+
+- React.js
+- React Router
+- Axios
 - CSS / Tailwind (your choice)
 
 ### **Backend**
-- Node.js  
-- Express.js  
-- MongoDB  
-- Mongoose  
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 
 ---
 
 ## 📁 Folder Structure
-
