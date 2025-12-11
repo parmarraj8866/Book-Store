@@ -37,7 +37,7 @@ This application allows users to **View Books, Add New Books, Edit Books, Delete
 - React.js
 - React Router
 - Axios
-- CSS / Tailwind (your choice)
+- CSS
 
 ### **Backend**
 
@@ -46,6 +46,4 @@ This application allows users to **View Books, Add New Books, Edit Books, Delete
 - MongoDB
 - Mongoose
 
----
 
-## 📁 Folder Structure
