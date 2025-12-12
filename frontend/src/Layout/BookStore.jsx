@@ -42,6 +42,8 @@ export default function BookTable() {
               <th>Category</th>
               <th>Stock</th>
               <th>Description</th>
+                <th>Created At</th>
+              <th>Updated At</th>
               <th>Action</th>
             </tr>
           </thead>
@@ -69,6 +71,8 @@ export default function BookTable() {
                   >
                     {book.description}
                   </td>
+                         <td>{new Date(book.createdAt).toLocaleString()}</td>
+                  <td>{new Date(book.updatedAt).toLocaleString()}</td>
 
                   <td className="d-flex justify-content-center">
                     <button
