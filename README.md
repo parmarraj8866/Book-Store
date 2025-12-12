@@ -7,7 +7,7 @@ This application allows users to **View Books, Add New Books, Edit Books, Delete
 
 ## 🏠 Home Page Preview
 
-![Home Page](./Main%20Home.png)
+![Home Page](./Home%20Image.png)
 
 ---
 
@@ -45,5 +45,6 @@ This application allows users to **View Books, Add New Books, Edit Books, Delete
 - Express.js
 - MongoDB
 - Mongoose
+
 
 
